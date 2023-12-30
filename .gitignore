@@ -1,0 +1,4 @@
+# ignore env files
+.vscode
+__pycache__
+.coverage
